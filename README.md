@@ -1,4 +1,6 @@
-# Intro
+# README
+
+## Introduction
 
 Hi I'm Tom, and I'm an Electronics Engineer, exploring a career change in to DevOps.
 
@@ -15,6 +17,7 @@ I'm using this space to practice a bit of everything, this includes:
 Here's to learning new skills, which I'm hoping to verify by obtaining their respective Certifications.
 
 Cheers 🍻
+
 
 <!---
 tsthorne/tsthorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
