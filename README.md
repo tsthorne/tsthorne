@@ -16,7 +16,7 @@ I'm using this space to practice a bit of everything, this includes:
 
 And how could I forget!?
 
-8. :ninja: *GIT* 
+8. 🤖: GIT! 
 
 Here's to learning new skills, which I'm hoping to verify by obtaining their respective Certifications.
 
