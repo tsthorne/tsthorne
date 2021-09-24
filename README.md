@@ -6,7 +6,9 @@ I'm using this space to practice a bit of everything, this includes:
 2. :whale: Docker
 3. :wheel_of_dharma: Kubernetes
 4. :infinity: Jenkins
-5. :cloud: AWS
+5. :mountain: Terraform
+6. :cloud: AWS
+7. :computer: Linux
 
 Here's to learning new skills, which I'm hoping to verify by obtaining their respective Certifications.
 
