@@ -26,20 +26,18 @@ In the Terminal of Visual Studio, I used my first Git command "git clone". Follo
 4. Copy the HTTPS URL.
 
 **My Terminal looked something like this:**
-
-> C:\Users\TomTh\Documents\Git> git clone https://github.com/tsthorne/tsthorne.git
-
+```
+C:\Users\TomTh\Documents\Git> git clone https://github.com/tsthorne/tsthorne.git
+```
 Once this command had finished running, I had succesfully cloned my GitHub repository on to my local machine. I now had a "README.md" which I could open and play with in VS. For a great list of basic Git commands, and all of their explanations I used [this](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html).
 
 My next command was `git status` as per the video. Which stated that my branch was up to date with the origin or main, this makes sense I hadn't yet changed my README. So I went ahead and made a change, saved that change (with CRTL + S) and ran `git status` again. This time it noticed I had modified my README file, great!
 
 Now I tried to commit this change, using `git commit`. I was immediately met with a request to tell Github who I was. I did so using the syntax provided as below:
-
 ```
 git config --global user.email "myemail@mail.com"
 git config --global user.name "myusername"
 ```
-
 GitHub was now happy, and so I proceeded to `git commit` my new file, using the `-m` to add a message, followed by another `-m` and a more detailed message. **I've made a mistake here** and I wanted to share it with you, in fact you may have already noticed it.
 
 Before a `git commit` I should have done a `git add` to stage my file, before I can commit the staged snapshot (That's what a commit is, a snapshot of the changes). So now that's what I did, `git add` followed by the local path of my repository, I realise now that I could have just used `git add`and "**.**" for the whole repository, or just the file name.
