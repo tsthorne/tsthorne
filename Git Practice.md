@@ -56,7 +56,9 @@ Once I had created my SSH keys, I needed to add them to my GitHub account. I fou
 
 So with my local machine linked to my GitHub account, it was time to complete my first push, using (you guessed it) `git push`. This command is followed by "origin ~~master~~ **main**" with origin being the location of our repository and main being the branch. The Terminal responded with:
 
-> Everything up-to-date.
+```
+Everything up-to-date.
+```
 
 I immediately refreshed my GitHub profile, and voila! There is was! 
 
