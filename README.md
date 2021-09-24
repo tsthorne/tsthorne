@@ -14,6 +14,10 @@ I'm using this space to practice a bit of everything, this includes:
 6. :cloud: AWS
 7. :computer: Linux
 
+And how could I forget!?
+
+8. :ninja: *GIT* 
+
 Here's to learning new skills, which I'm hoping to verify by obtaining their respective Certifications.
 
 Cheers 🍻
