@@ -18,7 +18,7 @@ And how could I forget!?
 
 8. :octocat: Git! 
 
-Here's to learning new skills, which I'm hoping to verify by obtaining their respective Certifications.
+Here's to learning new skills, which I'm aiming to veryify through projects and certifications.
 
 Cheers 🍻
 
