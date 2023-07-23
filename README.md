@@ -1,29 +1,52 @@
-## README
+---
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&section=header&text=Tom's%20Github&fontSize=30&fontColor=00A36C)
+---
 
-### Introduction
+```yaml
+tom:
+  name: Tom Thorne
+  location: South-East, United Kingdom
+  current_role: DevOps Engineer
+  education:
+    - "Bachelor's in Electronic Engineering"
+  fields_of_interest:
+    - "Linux Internals"
+    - "Programming"
+    - "Networking"
+    - "DevOps"
+    - "SRE"
+  tools:
+    - "GitLab CI/CD" 
+    - "Kubernetes"
+    - "Terraform"
+    - "Ansible"
+    - "Docker"
+    - "Azure"
+  languages:
+    - "Golang"
+    - "Python"
+    - "C"
+  currently_learning:
+    - "Golang"
+    - "Python"
+    - "C"
+  currently_working_on:
+    - "Personal Website and Blog @ https://tomthorne.net"
+    - "Homelab with Kubernetes Cluster"
+```
+<h2>  &nbsp;Tools I am familiar with</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="azure" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="python" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="50" height="50"/>
+</p>
 
-Hi I'm Tom, and I'm currently an Electronics Engineer, exploring a career change in to DevOps.
-
-I'm using this space to practice a bit of everything, this includes:
-
-1. :snake: Python
-2. :whale: Docker
-3. :wheel_of_dharma: Kubernetes
-4. :infinity: Jenkins
-5. :mountain: Terraform
-6. :cloud: AWS
-7. :computer: Linux
-
-And how could I forget!?
-
-8. :octocat: Git! 
-
-Here's to learning new skills, which I'm aiming to veryify through projects and certifications.
-
-Cheers 🍻
-
-
-<!---
-tsthorne/tsthorne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
