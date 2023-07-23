@@ -51,4 +51,4 @@ tom:
 
 ![Snake animation](https://github.com/tsthorne/tsthorne/blob/output/github-contribution-grid-snake.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsthorne)](https://github.com/tsthorne/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
