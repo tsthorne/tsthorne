@@ -49,4 +49,4 @@ tom:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="50" height="50"/>
 </p>
 
-![Snake animation](https://github.com/tsthorne/tsthorne/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tsthorne/tsthorne/blob/output/github-contribution-grid-snake.gif)
