@@ -14,6 +14,7 @@ tom:
     - "Programming"
     - "Networking"
     - "DevOps"
+    - "Cloud"
     - "SRE"
   tools:
     - "GitLab CI/CD" 
@@ -22,6 +23,7 @@ tom:
     - "Ansible"
     - "Docker"
     - "Azure"
+    - "AWS"
   languages:
     - "Golang"
     - "Python"
